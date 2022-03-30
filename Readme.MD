@@ -2,8 +2,8 @@
 
 Technology Used :-
 
-Front End :- React,MaterialUI
+Front End :- React
 <br/>
 BackEnd :- Nodejs,Mongo
 <br/>
-Framework Used :- Express,MaterialUI
+Framework Used :- Express
